@@ -1,0 +1,36 @@
+
+h1 {
+    font-size: 2rem;
+    font-family: 'Sansita Swashed', cursive;
+}
+h1.nama {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Sansita Swashed', cursive;
+    
+    margin: auto;
+    
+}
+p.karir {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+td.email {
+    font-size: 20px;
+    font-family: monospace;
+}
+td.mobile {
+    font-size: 20px;
+    font-family: monospace;
+}
+table.table {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+table.keahlian {
+    font-size: 20px;
+}
+div.riwayat {
+    font-size: 20px;
+    font-family: 'Sansita Swashed', cursive;
+}
